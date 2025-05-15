@@ -266,25 +266,7 @@ body {
 
 
 
-@media (max-width: 768px) {
-    .header {
-        flex-direction: column;
-        text-align: center;
-    }
-    .nav ul {
-        flex-direction: column;
-        gap: 10px;
-    }
-    .exclusive-offer .images {
-        flex-direction: column;
-    }
-    .exclusive-offer .images img {
-        width: 80%;
-        margin: 0 auto;
-    }
-    .car-grid .grid {
-        grid-template-columns: 1fr;
-    }
+
 }
 
 
